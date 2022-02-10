@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.continare {
+  border-radius: 40px;
+  border: 3px solid;
+  margin: auto;
+  height: 900px;
+}
+nav {
+  background-color: red;
+}
+.title_Pizza {
+    margin-top: 10px;
+  background-color: green;
+}
+section {
+  margin-top: 20px;
+  display: flex;
+}
+.section1 {
+  height: 300px;
+  width: 33.3%;
+  background-color: rgb(37, 47, 238);
+}
+
+.section2 {
+  width: 33.3%;
+
+  height: 300px;
+  display: flex;
+  background-color: rgb(171, 0, 250);
+}
+.section3 {
+  width: 33.3%;
+  height: 300px;
+  display: flex;
+  background-color: rgb(246, 73, 151);
+}
